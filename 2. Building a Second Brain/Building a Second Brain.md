@@ -76,3 +76,5 @@ spread across a variety of systems.
 - **Area** เป้าหมายระยะยาว ทำเรื่อยๆ ข้อมูล **Private** ส่วนตัว ไม่มี Deadline
 - **Rasource** คลังเก็บข้อมูลที่อาจเป็นประโยชน์ในอนาคต **ข้อมูล Public ทั่วไป** แชร์ได้
 - **Archive** คลังเก็บข้อมูลที่สะเปะสะปะที่**ไม่ได้ใช้งาน**
+
+  ![Image description](https://user-images.githubusercontent.com/12345678/12345678-12345678-9abc-def0-1234-56789abcdef0.jpg)
