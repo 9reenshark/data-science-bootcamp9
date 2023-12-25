@@ -1,7 +1,5 @@
 ไฟล์แบบฝึกหัด https://docs.google.com/spreadsheets/d/1mB0vZkRyJPc9YXA81CumicmzdWESi96f5tb4xFjU-tQ/edit#gid=0
 
-**Table of Contents**
-
 ---
 
 ## Intro to Google Spread Sheets
